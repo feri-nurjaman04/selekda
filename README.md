@@ -3,7 +3,7 @@ Jadi waktu itu aku tuh ikut Seleksi Daerah buat ikut ASC 2023 di Singapura. Dan 
 
 # Bikinnya pake apa aja bang?
 - PHP
-- CSS (dilarang pake framework😭)
+- CSS (dilarang pake framework huaaaaaa)
 
 # Bilang makasih dulu
 - Buat Allah SWT
